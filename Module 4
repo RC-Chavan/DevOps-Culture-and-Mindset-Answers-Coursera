@@ -1,1 +1,38 @@
+Question 1:-  Currently you are using timed studies to understand how users are leveraging your solution and have been told that you will need to scale to over 1000 users. What would you leverage to meet that objective?
+Answer :-     A/B Testing
 
+
+Question 2:-  Imagine your CIO signed a contract with a vendor selling you an enterprise solution for continuous delivery. How would you influence the situation?
+Answer :-     Talk about the 5 principles of continuous delivery: building quality in; work in small batches; computers perform repetitive tasks, people solve problems; relentlessly pursue continuous improvement; everyone is responsible
+
+
+Question 3:-  If you are getting a ton of pressure from leadership in your organization to automate everything, what could you recommend as an alternative?
+Answer :-     Start with a value stream map
+
+
+Question 4:-  Imagine you are starting to conduct a value stream mapping workshop. How would you want your leaders to engage in the activity?
+Answer :-     Create the space for the teams to participate in the workshop and conduct experiments to improve after the workshop is complete.
+
+
+Question 5:-  If you are trying to convince your organization to move to small batch and are struggling to influence the change, what metric could you use to demonstrate the impact of batch size?
+Answer :-     Deployment frequency
+
+
+Question 6:-  What is the best method described below for handling quality assurance cycles?
+Answer :-     Build in quality throughout the software development life cycle
+
+
+Question 7:-  Before you implement continuous delivery, what would be an important foundation to implement first?
+Answer :-     Configuration management via version control
+
+
+Question 8:-  If you needed to explain why it’s important to have your infrastructure managed as code, what would you describe as the benefits? (select all that apply)
+Answer :-     Being able to track changes         AND       Being able to build environments from scratch
+
+
+Question 9:-  If you are in an environment where teams work off of multiple feature branches, what would you recommend to move toward a high performing organization?
+Answer :-     Merging to trunk frequently, keeping branches contained to one day’s work
+              
+
+Question 10:-  What are some of the critical components to continuous testing? (select all that apply)
+Answer :-      Automated unit and acceptance tests run against every commit      AND     Testers should be performing exploratory testing continuously against the latest builds to come out of continuous integration
