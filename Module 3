@@ -1,0 +1,39 @@
+Question 1:- If you are working in a situation where you are a developer and you are accountable for features and another team is accountable for support and operational issues, what’s a concept you could introduce to adopt a DevOps mindset?
+Answer :-     Work is work
+
+Question 2:- If you are currently monitoring the health of your systems by looking at system up-time, which of the following could you evolve to for a better way of understanding the health of your products? (Select all that apply.)
+Answer :-    Instrumentation    AND    Monitoring business metrics
+
+
+Question 3:- Imagine you just had a major production incident and your manager is asking you to make sure “it never happens again”. Which of the following would be the best response? (Select 1 answer.)
+Answer :-    Suggest a blameless incident review, with a good facilitator and a focus on learning. 
+
+
+Question 4:- If your manager is considering an organizational change because outcomes are not being delivered, which of the following would be the best way to start your response in that conversation? (Select 1 answer.)
+Answer :-    Ask what the organizational objectives are - for example, is the organization more focused on speed or saving money.
+
+
+Question 5:- The 7 Characteristics of Organizational models in DevOps all contribute; however they need to be applied in the appropriate situations. What characteristic of organizational models would be the best to help mitigate employee and team burnout? (Select 1 best answer.)
+Answer :-    Accounting for humane and fair distribution of burdens. (5th of the 7 Characteristics)
+
+
+Question 6:- magine you are a member of the Oracle DBA team and operating in a matrix model. You continue to get competing priorities from multiple teams and are having a hard time staying aligned with your stakeholders. You also have a lot of time to support your team. Given this scenario, which of the following would be the best option you could propose to mitigate this? (Select 1 best answer.)
+Answer :-    Trying an embedded model
+
+
+Question 7:- Which of the following is the most accurate description of the benefit/s that come/s from treating work as work? (Select 1 best answer.)
+Answer :-    Speed AND Quality
+
+
+Question 8:- Imagine you are being asked by your product manager to quantify the value of operational work. Which of the following type/s of data might you use to help prioritize this work?
+Answer :-    Incident data      AND    MTTR (Mean Time to Restore)   AND     MTTD (Mean Time to Detect)
+
+
+
+Question 9:- Which of the following are among thebenefits from proactive monitoring? (Select all that apply.)
+Answer :-    Software delivery performance    AND    Job satisfaction
+
+
+
+Question 10:- Imagine you want to move to an adaptive organizational structure. What would become the primary focus of your CIO or executive leadership/management?
+Answer :-     Focus on vision, culture, and people
