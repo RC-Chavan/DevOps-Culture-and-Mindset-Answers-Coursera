@@ -1,0 +1,38 @@
+Question 1:-  If you are in an organization where it takes 5 or more teams to deliver an initiative, what is something you could do to help with reducing dependencies?
+Answer :-     Build APIs to create a loosely coupled architecture  
+
+
+Question 2:-  Which 2 of the following roles discussed in this module were described as most needing evolution to adopt a DevOps mindset? (Select all that apply.)
+Answer :-     Business Analyst    AND    Developer
+
+
+Question 3:-  Imagine you are in an organization practicing traditional change management processes (i.e., Change Advisory Boards, restricted change windows). What is something you could introduce to help manage risk?
+Answer :-     Automation of changes through the CI/CD pipeline, including audit trails.
+
+
+Question 4:-  Which of the following can slow down the delivery of value and therefore should be mitigated? (Select all that apply.)
+Answer :-     Context Switching      AND     Multitasking
+
+
+Question 5:-  If you are working on a team and your product is not performing well, and you and your team members are starting to feel burned out, which of the following could you do to help improve the situation? (Select all that apply.)
+Answer :-     Start tracking the work (feature, tech debt, operational, unplanned)     AND     Track the Employee Net Promoter Score (eNPS)
+
+
+Question 6:-  Imagine you are in a situation where your team has been missing commitments and management is frustrated and wants to make a change. What would you recommend as a firststep?
+Answer :-     Make the work visible
+
+
+Question 7:-  magine you have implemented work-in-process (WIP) limits within your team and you aren’t seeing results, what would you do next?
+Answer :-     Add visual displays and feedback loops from production monitoring tools.
+
+
+Question 8:-  Imagine you are having challenges with collaboration and some people are blaming the loosely coupled architecture approach. Which approach/es would directly address these challenges and provide benefits? (Select all that apply.)
+Answer :-     Following a data flow approach     AND      Breaking down functionality into smaller components
+
+
+Question 9:-  If you were asked to put together a team to optimize for delivering value to your customers, which of the following are actions you would take to achieve that? (Select all that apply.)
+Answer :-     Put all the roles needed to deliver that value in one team.
+              Build all of your Continuous Integration and Continuous Deployment pipelines and instrumentation so that you can get feedback on the product.
+
+Question 10:-  Imagine you are working at a retailer and want to deploy a change on Black Friday. What metric could you use to show that your team has a proven track record and should be allowed to make this change?
+Answer :-     Change Failure Rate
